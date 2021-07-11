@@ -1,4 +1,4 @@
-﻿#Diana Barbosa (diana.brito.barbosa@gmail.com) - Roche QA Assignment
+﻿#Diana Barbosa (diana.brito.barbosa@gmail.com) - SVGOM Testing with playwright
 
 ## Installation
 ```
