@@ -1,0 +1,12 @@
+{
+    "name": "svgomg-end2end",
+    "description": "svgomg: End2End tests",
+    "scripts": {
+        "end2end": "npx playwright test --config=playwright.config.ts"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@playwright/test": "^1.12.3",
+        "playwright": "^1.12.3"
+    }
+}
